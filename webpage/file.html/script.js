@@ -14,6 +14,7 @@ age-=3;
 console.log(age);
 age*=2;
 console.log(age);
+
 let age1=25;
 let age2=30;
 let sum=age1+age2;
@@ -25,6 +26,7 @@ console.log(age1>=age2);
 console.log(age1<=age2);
 console.log(age1==age2);
 console.log(age1!==age2);
+
 let food = "pizza";
 let break_fast = "bread";
 let food2 = "burger";
